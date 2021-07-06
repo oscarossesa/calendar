@@ -18,6 +18,5 @@
 }
 
 .page .calendar {
-  border: 10px solid purple;
   grid-area: calendar;
 }
